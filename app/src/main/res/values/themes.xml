@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LinguaPulse" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pulse_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/pulse_surface</item>
+    </style>
+</resources>

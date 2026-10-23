@@ -1,0 +1,16 @@
+<resources>
+    <!-- Brand Palette: Fresh, accessible language learning -->
+    <color name="pulse_green">#58CC02</color>
+    <color name="pulse_green_dark">#46A302</color>
+    <color name="pulse_blue">#1CB0F6</color>
+    <color name="pulse_blue_dark">#1899D6</color>
+    <color name="pulse_red">#FF4B4B</color>
+    <color name="pulse_red_dark">#EA2B2B</color>
+    <color name="pulse_gold">#FFC800</color>
+    <color name="pulse_gold_dark">#E5A400</color>
+    <color name="pulse_gray">#E5E5E5</color>
+    <color name="pulse_gray_dark">#AFAFAF</color>
+    <color name="pulse_surface">#FFFFFF</color>
+    <color name="pulse_background">#F7F7F7</color>
+    <color name="pulse_text">#4B4B4B</color>
+</resources>

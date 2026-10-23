@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LinguaPulse</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_review">Review</string>
+    <string name="nav_profile">Profile</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_check">Check Answer</string>
+    <string name="feedback_correct">Nicely done!</string>
+    <string name="feedback_incorrect">Correct solution:</string>
+    <string name="feedback_typo">Almost there! Watch for minor typos:</string>
+    <string name="hearts_empty_title">Out of Hearts!</string>
+    <string name="hearts_empty_desc">Practice to regain hearts and keep learning for free.</string>
+    <string name="action_practice_now">Practice (+1 Heart)</string>
+    <string name="session_completed_title">Lesson Completed!</string>
+    <string name="xp_earned_label">Total XP Earned</string>
+    <string name="streak_maintained_label">Day Streak!</string>
+</resources>
